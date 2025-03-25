@@ -1,14 +1,24 @@
-COMING SOON
-website design project
+![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
+![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
+![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
+[![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-🌟 About
+# Coming soon
+
+_website design project_
+
+<br>
+
+## 🌟 About
+
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
 Site published at: https://github.com/GintareLa/54-grupe-coming-soon
 
-Design: https://dribbble.com/shots/5964475-404-Lost-in-Space
+Design: ![alt text](./img/Full_view.png)
 
-🎯 Project features/goals
+## 🎯 Project features/goals
+
 Github pages
 responsive design
 social icons (FontAwesome, etc)
@@ -16,33 +26,56 @@ Google Fonts
 favicon
 CSS animations
 HTML forms
-🧰 Getting Started
-💻 Prerequisites
-Node.js - download and install
 
+## 🧰 Getting Started
+
+### 💻 Prerequisites
+
+Node.js - _download and install_
+
+```
 https://nodejs.org
-Git - download and install
+```
 
+Git - _download and install_
+
+```
 https://git-scm.com
-🏃 Run locally
+```
+
+### 🏃 Run locally
+
 Would like to run this project locally? Open terminal and follow these steps:
 
-Clone the repo
-git clone https://github.com/GintareLa/54-grupe-astronautas-destytojo.git
-Install NPM packages
-npm i
-or
-npm install
-Run the server
-npm run dev
-🧪 Running tests
+1. Clone the repo
+   `sh
+git clone https://github.com/GintareLa/54-grupe-coming-soon.git
+    `
+2. Install NPM packages
+   ```sh
+   npm i
+   ```
+   or
+   ```sh
+   npm install
+   ```
+3. Run the server
+   ```sh
+   npm run dev
+   ```
+
+### 🧪 Running tests
+
 There is no tests for this project.
 
-🎅 Authors
+## 🎅 Authors
+
 Gintare: [Github] https://github.com/GintareLa
 
-⚠️ License
+## ⚠️ License
+
 Distributed under the MIT License. See LICENSE.txt for more information.
 
-🔗 Other resources
+## 🔗 Other resources
+
 No other resources.
