@@ -23,9 +23,7 @@
 .container .right-column {
     width: 40%;
 }
-.center {
-    text-align: center;
-}
+
 
 @media (max-width: 1100px) {
     .container > .row {
