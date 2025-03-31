@@ -1,0 +1,22 @@
+.progress-bar {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.progress-bar .top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.progress-bar .bottom {
+    height: 0.5rem;
+    width: 100%;
+    background-color: #ddd;
+    /* background: linear-gradient(90deg, #03a9f5 0%, #03a9f5 90%, #ddd 90%, #ddd 100%); */
+}
+.progress-bar .bar {
+    height: 100%;
+    width: 90%;
+    background-color: #03a9f5
+    /* background: linear-gradient(90deg, #03a9f5 0%, #03a9f5 90%, #ddd 90%, #ddd 100%); */
+}
