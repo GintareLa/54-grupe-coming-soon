@@ -10,6 +10,9 @@
     display: flex;
     justify-content: space-between;
     width: 62rem;  
+    row-gap: 4rem;
+    width: 62rem;
+    position: relative;
 }
 .container > .row-short {
     display: flex;
